@@ -43,7 +43,7 @@ public class Main {
         int maxValue = Integer.MAX_VALUE;
         System.out.println("Максимальное значение для типа int: " + maxValue);
 
-        int nextToMax = maxValue + 1; // переполнение
+        int nextToMax = maxValue + 1;
         System.out.println("К максимальному значению " + maxValue + " + 1: " + nextToMax);
 
     }
