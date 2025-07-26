@@ -4,7 +4,7 @@ BUILD/
 !**/src/test/**
 
 #IDEA
-.idea
+.idea_
 *.iws
 *.iml
 *.ipr
